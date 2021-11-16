@@ -33,8 +33,3 @@ Scrum
 Trello: https://trello.com/b/gBzwA2ph/special-input-output
 
 Github: https://github.com/Casdegraaff/Input-Output-Ties-Cas
-
-presentatie
-
-Presentatie 1: https://docs.google.com/presentation/d/1XeAzvggRWTpUqmxcqabILKnKoeUWw-79oTWCotP3JD4/edit#slide=id.p
-
