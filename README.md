@@ -16,7 +16,7 @@ Onderzoek
 
 Engine:
 
-    Unity (Virtual Studio Code 2019).
+    Unity 2020.1.13f1 (Virtual Studio Code 2019).
 
 Overige software:
 
